@@ -1,0 +1,562 @@
+{
+    "Puerto Rico": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-15",
+            "end": null
+        }
+    },
+    "California": {
+        "state_of_emergency": {
+            "start": "2020-03-04",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-19",
+            "end": null
+        }
+    },
+    "Illinois": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-21",
+            "end": null
+        }
+    },
+    "New Jersey": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-21",
+            "end": null
+        }
+    },
+    "New York": {
+        "state_of_emergency": {
+            "start": "2020-03-07",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-22",
+            "end": null
+        }
+    },
+    "Connecticut": {
+        "state_of_emergency": {
+            "start": "2020-03-10",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "Louisiana": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "Ohio": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "Oregon": {
+        "state_of_emergency": {
+            "start": "2020-03-08",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "Washington": {
+        "state_of_emergency": {
+            "start": "2020-02-29",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "West Virginia": {
+        "state_of_emergency": {
+            "start": "2020-03-04",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-23",
+            "end": null
+        }
+    },
+    "Delaware": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-24",
+            "end": null
+        }
+    },
+    "Michigan": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-24",
+            "end": null
+        }
+    },
+    "New Mexico": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-24",
+            "end": null
+        }
+    },
+    "Massachusetts": {
+        "state_of_emergency": {
+            "start": "2020-03-10",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Hawaii": {
+        "state_of_emergency": {
+            "start": "2020-03-04",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "Idaho": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "Indiana": {
+        "state_of_emergency": {
+            "start": "2020-03-06",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "U.S. Virgin Islands": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "Vermont": {
+        "state_of_emergency": {
+            "start": "2020-03-16",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "Wisconsin": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-25",
+            "end": null
+        }
+    },
+    "Colorado": {
+        "state_of_emergency": {
+            "start": "2020-03-10",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-26",
+            "end": null
+        }
+    },
+    "Kentucky": {
+        "state_of_emergency": {
+            "start": "2020-03-06",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Minnesota": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-27",
+            "end": null
+        }
+    },
+    "New Hampshire": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-27",
+            "end": null
+        }
+    },
+    "Alaska": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-28",
+            "end": null
+        }
+    },
+    "Montana": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-28",
+            "end": null
+        }
+    },
+    "Rhode Island": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-28",
+            "end": null
+        }
+    },
+    "District of Columbia": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-30",
+            "end": null
+        }
+    },
+    "Kansas": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-30",
+            "end": null
+        }
+    },
+    "Maryland": {
+        "state_of_emergency": {
+            "start": "2020-03-05",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-30",
+            "end": null
+        }
+    },
+    "North Carolina": {
+        "state_of_emergency": {
+            "start": "2020-03-10",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-30",
+            "end": null
+        }
+    },
+    "Virginia": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-30",
+            "end": null
+        }
+    },
+    "Arizona": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-03-31",
+            "end": null
+        }
+    },
+    "Nevada": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-01",
+            "end": null
+        }
+    },
+    "Pennsylvania": {
+        "state_of_emergency": {
+            "start": "2020-03-06",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-01",
+            "end": null
+        }
+    },
+    "Maine": {
+        "state_of_emergency": {
+            "start": "2020-03-15",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-02",
+            "end": null
+        }
+    },
+    "Tennessee": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-02",
+            "end": null
+        }
+    },
+    "Texas": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-02",
+            "end": null
+        }
+    },
+    "Oklahoma": {
+        "state_of_emergency": {
+            "start": "2020-03-15",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Florida": {
+        "state_of_emergency": {
+            "start": "2020-03-01",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-03",
+            "end": null
+        }
+    },
+    "Georgia": {
+        "state_of_emergency": {
+            "start": "2020-03-14",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-03",
+            "end": null
+        }
+    },
+    "Mississippi": {
+        "state_of_emergency": {
+            "start": "2020-03-04",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-03",
+            "end": null
+        }
+    },
+    "Alabama": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-04",
+            "end": null
+        }
+    },
+    "Missouri": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-06",
+            "end": null
+        }
+    },
+    "South Carolina": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": "2020-04-07",
+            "end": null
+        }
+    },
+    "American Samoa": {
+        "state_of_emergency": {
+            "start": "2020-01-29",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Arkansas": {
+        "state_of_emergency": {
+            "start": "2020-03-11",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Guam": {
+        "state_of_emergency": {
+            "start": "2020-03-14",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Iowa": {
+        "state_of_emergency": {
+            "start": "2020-03-09",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Nebraska": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "North Dakota": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "N. Mariana Islands": {
+        "state_of_emergency": {
+            "start": "2020-01-29",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "South Dakota": {
+        "state_of_emergency": {
+            "start": "2020-03-13",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Utah": {
+        "state_of_emergency": {
+            "start": "2020-03-06",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    },
+    "Wyoming": {
+        "state_of_emergency": {
+            "start": "2020-03-12",
+            "end": null
+        },
+        "shelter_in_place": {
+            "start": null,
+            "end": null
+        }
+    }
+}
